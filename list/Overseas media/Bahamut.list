@@ -6,3 +6,9 @@ DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
+# 台湾其他
+IP-CIDR,220.134.196.147/32
+IP-CIDR,38.64.72.148/32
+DOMAIN-SUFFIX,btsw-ott2b.cdn.hinet.net
+DOMAIN-SUFFIX,cdn257.ccdntech.com
+DOMAIN-SUFFIX,modfree-hamivideo.cdn.hinet.net
