@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,ls.apple.com
   - DOMAIN-SUFFIX,mzstatic.com
 
+  # 本地IP绕过代理
+  - SRC-IP-CIDR,192.168.100.147/24
 
   # 追觅
   - DOMAIN-SUFFIX,dreame.tech
