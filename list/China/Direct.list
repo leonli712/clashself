@@ -1,0 +1,8 @@
+# 本地IP绕过代理
+SRC-IP-CIDR,192.168.100.147/24
+
+# 追觅
+DOMAIN-SUFFIX,dreame.tech
+DOMAIN-SUFFIX,dreametech.com
+DOMAIN-KEYWORD,dreametech
+DOMAIN-KEYWORD,dreame
