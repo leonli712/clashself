@@ -23,6 +23,8 @@ payload:
   # 追觅
   - DOMAIN-SUFFIX,dreame.tech
   - DOMAIN-SUFFIX,dreametech.com
+  - DOMAIN-KEYWORD,dreametech
+  - DOMAIN-KEYWORD,dreame
 
   # > Epic
   - DOMAIN-KEYWORD,epicgames
