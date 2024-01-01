@@ -7,8 +7,6 @@ DOMAIN-SUFFIX,acl4.ssr
 # 跳过代理
 IP-CIDR,110.40.206.40/24,no-resolve
 DOMAIN-SUFFIX,oray.net
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-KEYWORD,spotify
 
 
 # 本地IP绕过代理
